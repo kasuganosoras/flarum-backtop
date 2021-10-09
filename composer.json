@@ -1,5 +1,5 @@
 {
-  "name": "itnt/flarum-backtop",
+  "name": "kasuganosoras/flarum-backtop",
   "description": "Flarum Back to Top Extenion",
   "keywords": [
     "flarum",
@@ -21,7 +21,7 @@
     "issues": "https://github.com/Littlegolden/flarum-backtop/issues"
   },
   "require": {
-    "flarum/core": "^0.1.0-beta.10"
+    "flarum/core": "^1.0"
   },
   "extra": {
     "flarum-extension": {
